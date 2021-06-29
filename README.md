@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @leegeepum.
-- 👀 I’m interested in BUIDLing something that could positively affect the world.
-- 🌱 I’m currently learning front-end development.
+- 👀 I’m interested in Web3 development.
+- 👀 I would like to do things that could positively affect the world.
+- 🌱 I’m currently learning HTML/CSS/Javascript.
 - 💞️ I’m looking to change my career into programming to learn more.
 - 📫 You can reach me at my [email](leegeepum@gmail.com)
 
